@@ -1,3 +1,3 @@
 # HelloWorld
 
-I am Elizabeth and I am agraphic designer who likes to code sometimes.
+I am Elizabeth and I am a graphic designer who likes to code sometimes.
